@@ -6,6 +6,7 @@ First Year:
 -------
 * Introduction to Programming
 * Web Technologies
+ * Coursework: Implemented an online dvd-store that combined technologies such as HTML, CSS, Javascript and PHP.
 * Object Oriented Programming Languages
 * Data Structure and Algorithms
 * Computer Architecture
