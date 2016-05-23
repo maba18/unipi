@@ -5,11 +5,13 @@ Some interesting courses and projects during my undergraduate studies at the Uni
 First Year:
 -------
 * Introduction to Programming
+ * Coursework: Implemented a program in C that provided basic functionalities for managing a database of employees stored as fixed-length records of binary files. The main focus of the coursework was the understanding of the basic file I/O operations provided by C.
 * Web Technologies
- * Coursework: Implemented an online dvd-store that combined technologies such as HTML, CSS, Javascript and PHP.
+ * Coursework: Implemented a booking system for an online dvd-store that combined web technologies such as HTML, CSS, Javascript and PHP.
 * Object Oriented Programming Languages
 * Data Structure and Algorithms
 * Computer Architecture
+ * Coursework: 
 * Discrete Mathematics
 
 Second Year:
